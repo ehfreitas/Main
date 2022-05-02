@@ -24,18 +24,21 @@ Classification accuracy is the ratio of the number of correct predictions to the
 Since we are dealing with images we are not really able to perform a lot of exploratory data analysis. However we were able to check the distribuition of the target classification (dog breed) variable:
 
 * Train Dataset
+
 mean - 0.75%
 std  - 0.18%
 min  - 0.39%
 max  - 1.15%
 
 * Validation Deataset
+
 mean - 0.75%
 std  - 0.16%
 min  - 0.48%
 max  - 1.08%
 
 * Test Deataset
+
 mean - 0.75%
 std  - 0.20%
 min  - 0.36%
