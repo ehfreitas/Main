@@ -19,7 +19,7 @@ The idea of the github section is to store the projects done in my journey to le
 
 ## Sections
 
-- **[Data Scientist Nanodegree Program](https://github.com/ehfreitas/Main/tree/master/01.%20Data%20Scientist%20Nanodegree%20Program/) -** Stores projects related to Udacity's Data Scientist Nanodegree Program
+- **[Data Scientist Nanodegree Program](https://github.com/ehfreitas/Main/tree/main/01.%20Data%20Scientist%20Nanodegree/) -** Stores projects related to Udacity's Data Scientist Nanodegree Program
 
 ## Disclaimer
 
