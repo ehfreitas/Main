@@ -14,7 +14,7 @@ The idea of the github section is to store the projects done in my journey to le
 
 💻 Machine Learning & Programming
 * Py Let's Code - Curso de Data Science em Python com mais de 400 horas da Let's Code
-* Udacity - Data Scientist Nanodegree - _Ongoing_
+* Udacity - Data Scientist Nanodegree - May 2022
 * Datacamp - _Ongoing_
 
 ## Sections
