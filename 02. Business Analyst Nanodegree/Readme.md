@@ -59,18 +59,19 @@ In this section I will document the most important concepts and all projects I w
   - Referene data sources.
 
 - Methodology Map
-The methodology map helps select the correct methodology to be used in modeling step of the CRISP-DM framework.
 
-  <img src="hhttps://github.com/ehfreitas/Main/blob/main/02.%20Business%20Analyst%20Nanodegree/method_map.jpg" alt="Method Map" width="600"/>
+  The methodology map helps select the correct methodology to be used in modeling step of the CRISP-DM framework.
 
-The first step is defining if the business problem is predictive problem or a non-predictive data analysis problem.
+    <img src="https://github.com/ehfreitas/Main/blob/main/02.%20Business%20Analyst%20Nanodegree/method_map.jpg" alt="Method Map" width="600"/>
 
-Non-predictive data analysis problems can be further broken down in four categories:
+  The first step is defining if the business problem is predictive problem or a non-predictive data analysis problem.
 
-- Geospatial: uses location based data to help drive our conclusions.
-- Segmentation: the process of grouping data together.
-- Aggregation: calculating a value across a group or dimension.
-- Descriptive: providing summary of a data sample.
+  Non-predictive data analysis problems can be further broken down in four categories:
+
+  - Geospatial: uses location based data to help drive our conclusions.
+  - Segmentation: the process of grouping data together.
+  - Aggregation: calculating a value across a group or dimension.
+  - Descriptive: providing summary of a data sample.
 
 ## Projects
 
