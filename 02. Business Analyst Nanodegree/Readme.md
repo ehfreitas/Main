@@ -20,7 +20,7 @@ In this section I will document the most important concepts and all projects I w
   - What **decision** needs to be made?
   - What **information** is needed to inform that decision?
   - What type of **analysis** will provide the information to inform that decision?
-    &nbsp;
+  <p></p>
 
   2. **Data** Understanding
 
@@ -36,6 +36,7 @@ In this section I will document the most important concepts and all projects I w
   - Formatting: You may need to format the data by pivoting data, changing the way it appears or even renaming a field.
   - Blending: You might need to combine datasets to enrich your analysis.
   - Sampling: You might need to sample the dataset in order to work with a more management number of records.
+  <p></p>
 
   4. Analysis / **Modeling**
 
@@ -43,6 +44,7 @@ In this section I will document the most important concepts and all projects I w
   - What are the **important factors** or variables that will help you solve the problem?
   - **Build** a model to solve the problem
   - **Run** the model and move to validation phase
+  <p></p>
 
   5. **Validation**
 
@@ -50,6 +52,7 @@ In this section I will document the most important concepts and all projects I w
   - Ensure the results make sense within the context of the business model.
   - Determine whether to proceed to the next step, return to the previous phase or even restart the whole process.
   - Repeat as many time as necessary.
+  <p></p>
 
   6. **Presentation** / Visualization
 
