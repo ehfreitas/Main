@@ -27,6 +27,7 @@ In this section I will document the most important concepts and all projects I w
   - What data is needed?
   - What data is available?
   - What are the important characteristics of the data?
+  <p></p>
 
   3. Data **Preparation**
 
