@@ -20,6 +20,7 @@ In this section I will document the most important concepts and all projects I w
   - What **decision** needs to be made?
   - What **information** is needed to inform that decision?
   - What type of **analysis** will provide the information to inform that decision?
+  <p>&nbsp;</p>
 
   2. **Data** Understanding
 
@@ -71,6 +72,21 @@ In this section I will document the most important concepts and all projects I w
   - Segmentation: the process of grouping data together.
   - Aggregation: calculating a value across a group or dimension.
   - Descriptive: providing summary of a data sample.
+
+Predictive data analysis problems can be broken down in data rich and data poor problems. If you have data on the problem you are trying to solve it is a data rich problem. If you do not have data (such as for a new product with no history) you will need to set up an A/B test experiment to generate data.
+
+For data rich problems the next step would be to look at the outcome you are trying to predict and determine if it is a numeric outcome where you will use regression models or a non-numeric outcome, for which case you would use a classification model.
+
+There are 3 types of numeric variables:
+
+- continuous
+- time based
+- count
+
+Non-numeric models can be further classified in:
+
+- binary: only two categorical outcomes
+- non-binary: more than two categorical outcomes
 
 ## Projects
 
