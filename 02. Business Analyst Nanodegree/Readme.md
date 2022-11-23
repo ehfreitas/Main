@@ -20,7 +20,7 @@ In this section I will document the most important concepts and all projects I w
   - What **decision** needs to be made?
   - What **information** is needed to inform that decision?
   - What type of **analysis** will provide the information to inform that decision?
-  <p>&nbsp;</p>
+    &nbsp;
 
   2. **Data** Understanding
 
