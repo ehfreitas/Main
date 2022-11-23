@@ -11,7 +11,7 @@ In this section I will document the most important concepts and all projects I w
 - CRISP-DM Framework
   The problem solving framework presented for use in business analysis was the **CR**oss **I**ndustry **S**tandard **P**rocess for **D**ata **M**ining Framework which was made for Data Mining but works well for Business Analysis problems all around.
 
-  <img src="https://github.com/ehfreitas/Main/blob/main/02.%20Business%20Analyst%20Nanodegree/CRISM-DM.jpg" alt="CRISM-DM Framework" width="100"/>
+  <img src="https://github.com/ehfreitas/Main/blob/main/02.%20Business%20Analyst%20Nanodegree/CRISM-DM.jpg" alt="CRISM-DM Framework" width="300"/>
 
   It is composed of 6 steps each detailed below:
 
